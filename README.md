@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Overview
+## Overview
 
 Bundesliga Wrapped is an AI-powered web experience that generates personalized football season recaps for Bundesliga fans.
 
@@ -22,26 +22,26 @@ By combining match data, fan engagement signals, and AI storytelling, users rece
 
 ---
 
-## ✨ Features
+## Features
 
-### 🎬 Personalized Recaps
+### Personalized Recaps
 Generate unique season summaries based on user preferences and football events.
 
-### 🤖 AI Storytelling
+### AI Storytelling
 Create emotional narratives and fan identities using AI agents.
 
-### 📈 Match Insights
+### Match Insights
 Transform match events into engaging visual experiences.
 
-### 📱 Social Sharing
+### Social Sharing
 Export recap moments optimized for social media.
 
-### 🏆 Club Experience
+### Club Experience
 Deliver club-specific highlights and fan engagement.
 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 ```txt
 Frontend (Next.js)
@@ -57,7 +57,7 @@ Data Layer (DynamoDB + S3)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```txt
 bundesliga-wrapped/
@@ -81,7 +81,7 @@ bundesliga-wrapped/
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - Next.js
@@ -108,7 +108,7 @@ bundesliga-wrapped/
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### Clone repository
 
@@ -137,7 +137,7 @@ http://localhost:3000
 
 ---
 
-## ☁️ Deployment
+## Deployment
 
 ### AWS Amplify
 
@@ -174,7 +174,7 @@ terraform apply
 
 ---
 
-## 🎯 Target Users
+## Target Users
 
 - Bundesliga supporters
 - Casual football fans
@@ -183,7 +183,7 @@ terraform apply
 
 ---
 
-## 📚 Documentation
+## Documentation
 
 See the `docs/` folder for:
 
@@ -197,7 +197,7 @@ See the `docs/` folder for:
 
 ---
 
-## 🧪 Development Roadmap
+## Development Roadmap
 
 ### Phase 1 — Foundation
 - Product vision
@@ -221,7 +221,7 @@ See the `docs/` folder for:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome.
 
@@ -233,7 +233,7 @@ git push origin feature/new-feature
 
 ---
 
-## 📄 License
+## License
 
 MIT License
 
@@ -241,8 +241,9 @@ See `LICENSE` for details.
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 - Inspired by Spotify Wrapped
-- Built with ❤️ for football fans
+- Built with heart for football fans
 - Powered by AWS and AI
+- author : Charismata DIANGANZI 
